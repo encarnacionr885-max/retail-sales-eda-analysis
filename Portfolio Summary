@@ -1,7 +1,0 @@
-Problem/Goal: “Identify profitability gaps in company product categories and provide actionable insights.”
-
-Your Action: “Cleaned dataset, standardized dates, calculated KPIs, generated visualizations, analyzed category/sub-category performance.”
-
-Key Results: “Furniture category underperforming: Tables (-$17,725), Bookcases (-$3,472). Technology and Office Supplies strongest categories. Recommendations on cost, pricing, and discount strategies to improve profitability.”
-
-Tools Used: Excel, Python (pandas, matplotlib), data visualization
