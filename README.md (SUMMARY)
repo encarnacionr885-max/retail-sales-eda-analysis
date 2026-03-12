@@ -1,23 +1,34 @@
-Retail Sales EDA Analysis – Portfolio Project
+📊 Retail Sales EDA Analysis – Portfolio Project
 
-Problem / Goal: Identify profitability gaps across product categories and provide actionable insights, focusing on Furniture.
+🎯 Problem / Goal
+Identify profitability gaps across product categories and provide actionable insights, with a focus on Furniture.
 
-Actions Taken:
+🛠 Actions Taken
 
-Cleaned and standardized dataset, fixed date formats.
+Cleaned and standardized dataset, including date formats.
 
 Calculated KPIs and profit margins by category and sub-category.
 
-Created clear visualizations for executive insights.
+Created clear, insightful visualizations for executive decision-making.
 
-Key Results:
+📈 Key Results
 
-Furniture underperforming: Tables (-$17,725), Bookcases (-$3,472).
+Furniture underperforming: Tables (-$17,725), Bookcases (-$3,472)
 
-Technology and Office Supplies are strongest categories.
+Technology and Office Supplies are the strongest performing categories
 
-Recommendations: optimize production costs, pricing, discounts, and product portfolio to improve margins.
+💡 Recommendations
 
-Tools Used: Excel, Python (pandas, matplotlib), data visualization.
+Optimize production costs for low-performing products
 
-Outcome: Ready-to-use executive insights with charts and actionable recommendations for decision-making.
+Reevaluate pricing strategy for high-demand items
+
+Adjust discount policies strategically
+
+Rationalize product portfolio for maximum profitability
+
+🧰 Tools Used
+Excel | Python (pandas, matplotlib) | Data Visualization
+
+✅ Outcome
+Ready-to-use executive insights with actionable recommendations and visual charts to support data-driven decisions.
